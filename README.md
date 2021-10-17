@@ -1,2 +1,2 @@
 # assignment-1_Stat
-Assignment 1 Statistics for BA @VU Amsterdam
+Assignments Statistics for BA @VU Amsterdam
